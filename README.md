@@ -53,3 +53,8 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
   macOS ~/Library/Caches/electron-builder
   linux ~/.cache/electron-builder
   windows %LOCALAPPDATA%\electron-builder\cache
+
+## git
+
+  git stash
+  git stash pop
